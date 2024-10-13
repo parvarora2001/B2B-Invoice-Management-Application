@@ -6,12 +6,12 @@ The B2B Invoice Management Application is a streamlined solution for managing in
 
 ## Features
 
-Invoice Creation: Generate professional, customizable invoices with ease.
-Payment Tracking: Monitor outstanding payments, due dates, and payment statuses.
-Automated Reminders: Automatically send reminders for overdue invoices.
-Reports: Generate financial reports for accounting and business analysis.
-Multi-Currency Support: Handle invoices in different currencies for international transactions.
-User Roles: Different access levels for administrators, accountants, and clients.
+1) Invoice Creation: Generate professional, customizable invoices with ease.
+2) Payment Tracking: Monitor outstanding payments, due dates, and payment statuses.
+3) Automated Reminders: Automatically send reminders for overdue invoices.
+4) Reports: Generate financial reports for accounting and business analysis.
+5) Multi-Currency Support: Handle invoices in different currencies for international transactions.
+6) User Roles: Different access levels for administrators, accountants, and clients.
 
 ## Database
 
@@ -19,6 +19,6 @@ The application supports various databases (SQLite, PostgreSQL, MySQL, etc.). By
 
 ## Future Enhancements
 
-Bulk Invoice Generation: Automatically generate multiple invoices from a batch of data.
-Advanced Analytics: Provide dashboards with visual insights on business financials.
-Integration with Payment Gateways: Connect to payment gateways (Stripe, PayPal) for processing payments directly through the app.
+1) Bulk Invoice Generation: Automatically generate multiple invoices from a batch of data.
+2) Advanced Analytics: Provide dashboards with visual insights on business financials.
+3) Integration with Payment Gateways: Connect to payment gateways (Stripe, PayPal) for processing payments directly through the app.
